@@ -50,6 +50,6 @@ Once you get back here, make a comment requesting further review and someone wil
 - You are using approved title ("feat/", "fix/", "docs/", "refactor/", etc)
 - include a brieft description of your PR
 - include a screenshot of your changes.
-- check the `Allow edits and access to secrets by maintainers`
+- check the `Allow edits and access to secrets by maintainers` (optional)
 - Create Pull Request
 
