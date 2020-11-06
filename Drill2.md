@@ -5,3 +5,6 @@
 
 Lesson:
  - learn to add a new file (image)
+
+ Bonus Drill:
+ - read `thomas` file.
