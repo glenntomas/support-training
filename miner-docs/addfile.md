@@ -4,4 +4,4 @@
 ![hoody](../images/hoody.jpg)
 
 2. Glenn likes this car <br>
-![civic](../images/civic.jpg)
+![civic](C:\Users\glenn\support-training\images\civic.jpg)
