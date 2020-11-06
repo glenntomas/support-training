@@ -5,3 +5,7 @@
 
 2. Glenn likes this car <br>
 ![civic](../images/civic.jpg)
+
+1. Ralph likes this bike <br>
+![ave](../images/ave.jpg)
+
