@@ -10,7 +10,6 @@ General workflow
 5. rebase upstream changes into your branch
 6. push your commits
 7. Submit Pull Request (see: PR naming guidelines)
-8. Include a description of your changes
  
 Add that repo as an upstream remote:
 `git remote add upstream https://github.com/PtrckM/support-training`
